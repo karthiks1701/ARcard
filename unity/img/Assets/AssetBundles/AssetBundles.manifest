@@ -1,0 +1,13 @@
+ManifestFileVersion: 0
+CRC: 915025582
+AssetBundleManifest:
+  AssetBundleInfos:
+    Info_0:
+      Name: wheel.none
+      Dependencies: {}
+    Info_1:
+      Name: cobra
+      Dependencies: {}
+    Info_2:
+      Name: tiger
+      Dependencies: {}
